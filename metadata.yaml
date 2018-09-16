@@ -1,0 +1,25 @@
+_repo: Life-of-David-W-Patten-the-First-Apostolic-Martyr_51730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Lycurgus A. (Lycurgus Arnold)
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '45284'
+    url: http://www.gutenberg.org/2009/agents/45284
+description: ''
+gutenberg_issued: '2016-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Patten, David W., 1799-1838'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Apostles -- Biography'
+- GITenberg
+title: Life of David W. Patten, the First Apostolic Martyr
+url: http://www.gutenberg.org/ebooks/51730
